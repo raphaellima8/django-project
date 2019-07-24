@@ -1,5 +1,6 @@
 .django-app
 .vscode
-eventex/__pycache__
+**/__pycache__
 .env
 *.sqlite3
+staticfiles
