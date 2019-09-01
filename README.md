@@ -2,8 +2,8 @@
 
 Sistema de Eventos encomendado pela Morena
 
-[![Build Status](https://travis-ci.org/RamiroAlvaro/wttd-eventex.svg?branch=master)](https://travis-ci.org/RamiroAlvaro/wttd-eventex)
-[![Code Health](https://landscape.io/github/RamiroAlvaro/wttd-eventex/master/landscape.svg?style=flat)](https://landscape.io/github/RamiroAlvaro/wttd-eventex/master)
+[![Build Status](https://travis-ci.org/raphaellima8/django-project.svg?branch=develop)](https://travis-ci.org/raphaellima8/django-project)
+[![Code Health](https://landscape.io/github/raphaellima8/django-project/develop/landscape.svg?style=flat)](https://landscape.io/github/raphaellima8/django-project/develop)
 
 ## Como desenvolver?
 
@@ -40,5 +40,5 @@ heroku config:push
 heroku config:set SECRET_KEY=`python contrib/secret_gen.py`
 heroku config:set DEBUG=False
 # configuro o email
-git push heroku master --force
+git push heroku develop --force
 ```
