@@ -1,2 +1,6 @@
 -r requirements.txt
 jupyter
+pylint-django
+pylint-plugin-utils
+autopep8
+pycodestyle
