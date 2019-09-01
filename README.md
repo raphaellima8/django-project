@@ -3,7 +3,8 @@
 Sistema de Eventos encomendado pela Morena
 
 [![Build Status](https://travis-ci.org/raphaellima8/django-project.svg?branch=develop)](https://travis-ci.org/raphaellima8/django-project)
-[![Code Health](https://landscape.io/github/raphaellima8/django-project/develop/landscape.svg?style=flat)](https://landscape.io/github/raphaellima8/django-project/develop)
+[![Maintainability](https://api.codeclimate.com/v1/badges/11f55debfb7a35c6fd05/maintainability)](https://codeclimate.com/github/raphaellima8/django-project/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/11f55debfb7a35c6fd05/test_coverage)](https://codeclimate.com/github/raphaellima8/django-project/test_coverage)
 
 ## Como desenvolver?
 
